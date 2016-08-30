@@ -1,0 +1,13 @@
+Z:\Projects\Framework.NET\C#\Random\WeShare\WeShare\bin\Debug\WeShare.exe.config
+Z:\Projects\Framework.NET\C#\Random\WeShare\WeShare\bin\Debug\WeShare.exe
+Z:\Projects\Framework.NET\C#\Random\WeShare\WeShare\bin\Debug\WeShare.pdb
+Z:\Projects\Framework.NET\C#\Random\WeShare\WeShare\obj\Debug\WeShare.csprojResolveAssemblyReference.cache
+Z:\Projects\Framework.NET\C#\Random\WeShare\WeShare\obj\Debug\WeShare.Properties.Resources.resources
+Z:\Projects\Framework.NET\C#\Random\WeShare\WeShare\obj\Debug\WeShare.csproj.GenerateResource.Cache
+Z:\Projects\Framework.NET\C#\Random\WeShare\WeShare\obj\Debug\WeShare.exe
+Z:\Projects\Framework.NET\C#\Random\WeShare\WeShare\obj\Debug\WeShare.pdb
+Z:\Projects\Framework.NET\C#\Random\WeShare\WeShare\obj\Debug\WeShare.HomeForm.resources
+Z:\Projects\Framework.NET\C#\Random\WeShare\WeShare\bin\Debug\WeShare.exe.manifest
+Z:\Projects\Framework.NET\C#\Random\WeShare\WeShare\bin\Debug\WeShare.application
+Z:\Projects\Framework.NET\C#\Random\WeShare\WeShare\obj\Debug\WeShare.exe.manifest
+Z:\Projects\Framework.NET\C#\Random\WeShare\WeShare\obj\Debug\WeShare.application
