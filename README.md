@@ -1,4 +1,4 @@
-# WeShare
+# WeShare  
 
 An application that helps to transfer files between devices over `Wi-Fi` or `LAN`. It works on `Internet Protocol` by creating 
 `Socket` and `SocketListener`.
